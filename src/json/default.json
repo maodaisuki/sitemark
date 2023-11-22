@@ -1,179 +1,176 @@
-[{
-	"name": "🖥️ 编程开发",
-	"categories": [{
-		"name": "算法",
-		"links": [{
-			"name": "Bilibili",
-			"url": "https://bilibili.com/"
-		}, {
-			"name": "Codewars",
-			"url": "https://www.codewars.com/"
-		}, {
-			"name": "力扣",
-			"url": "https://leetcode.cn/"
-		}, {
-			"name": "Codewars",
-			"url": "https://www.codewars.com/"
-		}, 
-        {
-			"name": "Codewars",
-			"url": "https://www.codewars.com/"
-		},{
-			"name": "Codewars",
-			"url": "https://www.codewars.com/"
-		}, 
-        {
-			"name": "Codewars",
-			"url": "https://www.codewars.com/"
-		}, 
-        {
-			"name": "Codewars",
-			"url": "https://www.codewars.com/"
-		}, 
-        {
-			"name": "Codewars",
-			"url": "https://www.codewars.com/"
-		}, 
-        {
-			"name": "Codewars",
-			"url": "https://www.codewars.com/"
-		}, 
-        {
-			"name": "Codewars",
-			"url": "https://www.codewars.com/"
-		}, 
-        {
-			"name": "Codewars",
-			"url": "https://www.codewars.com/"
-		}]
+[
+	{
+		"name": "📬 社交媒体",
+		"categories": [
+			{
+				"name": "SNS",
+				"links": [
+					{
+						"name": "Twitter",
+						"url": "https://twitter.com/"
+					}, 
+					{
+						"name": "Mstdn.jp",
+						"url": "https://mstdn.jp/"
+					}, 
+					{
+						"name": "Github",
+						"url": "https://Github.com/"
+					},
+					{
+						"name": "Bluesky",
+						"url": "https://bsky.app/"
+					},
+					{
+						"name": "Discord",
+						"url": "https://discord.com/channels/@me"
+					},
+					{
+						"name": "Bangumi",
+						"url": "https://bangumi.tv/"
+					},
+					{
+						"name": "BandCamp",
+						"url": "https://aoiharutomao.bandcamp.com/dashboard"
+					}
+				]
+			},
+			{
+				"name": "邮箱",
+				"links": [
+					{
+						"name": "Gmail",
+						"url": "https://mail.google.com/mail/u/0/#inbox"
+					}, 
+					{
+						"name": "Outlook",
+						"url": "https://outlook.live.com/mail/0/"
+					}
+				]
+			},
+			{
+				"name": "书影音",
+				"links": [
+					{
+						"name": "Bilibili",
+						"url": "https://www.bilibili.com/"
+					}, 
+					{
+						"name": "Youtube",
+						"url": "https://www.youtube.com/"
+					}, 
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/"
+					},
+					{
+						"name": "ノート",
+						"url": "https://note.com/"
+					},
+					{
+						"name": "LastFM",
+						"url": "https://www.last.fm/user/mao0_0"
+					}
+				]
+			}
+		]
 	},
-    {
-		"name": "未分类",
-		"links": [{
-			"name": "数据结构和算法动态可视化 (Chinese)",
-			"url": "http://zh.visualgo.net/"
-		}, {
-			"name": "Codewars",
-			"url": "https://www.codewars.com/"
-		}, {
-			"name": "力扣",
-			"url": "https://leetcode.cn/"
-		}]
-	}]
-},
-{
-	"name": "🖥️ 编程开发",
-	"categories": [{
-		"name": "算法",
-		"links": [{
-			"name": "数据结构和算法动态可视化 (Chinese)",
-			"url": "http://zh.visualgo.net/"
-		}, {
-			"name": "Codewars",
-			"url": "https://www.codewars.com/"
-		}, {
-			"name": "力扣",
-			"url": "https://leetcode.cn/"
-		}]
+	{
+		"name": "📚 参考手册",
+		"categories": [
+			{
+				"name": "API 文档",
+				"links": [
+					{
+						"name": "MDN 文档",
+						"url": "https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web"
+					}
+				]
+			},
+			{
+				"name": "框架文档",
+				"links": [
+					{
+						"name": "Arco Design Vue",
+						"url": "https://arco.design/vue/docs/start"
+					},
+					{
+						"name": "Flutter 组件库",
+						"url": "https://allinprogram.github.io/flutter-do-page/md/AboutDialog.html"
+					},
+					{
+						"name": "Vue.js",
+						"url": "https://cn.vuejs.org/guide/introduction.html#what-is-vue"
+					}
+				]
+			},
+			{
+				"name": "编程语言",
+				"links": [
+					{
+						"name": "Javascript 指南",
+						"url": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide"
+					}
+				]
+			},
+			{
+				"name": "日本語",
+				"links": [
+					{
+						"name": "ネット用語集",
+						"url": "https://yougoshu.com/information-technology/internetslang"
+					}
+				]
+			},
+			{
+				"name": "音乐理论",
+				"links": [
+					{
+						"name": "自由派音乐理论",
+						"url": "https://music-theory.aizcutei.com/"
+					}
+				]
+			},
+			{
+				"name": "素材库",
+				"links": [
+					{
+						"name": "Unsplash 图片",
+						"url": "https://unsplash.com/"
+					}
+				]
+			}
+		]
 	},
-    {
-		"name": "未分类",
-		"links": [{
-			"name": "数据结构和算法动态可视化 (Chinese)",
-			"url": "http://zh.visualgo.net/"
-		}, {
-			"name": "Codewars",
-			"url": "https://www.codewars.com/"
-		}, {
-			"name": "力扣",
-			"url": "https://leetcode.cn/"
-		}]
-	}]
-},
-{
-	"name": "🖥️ 编程开发",
-	"categories": [{
-		"name": "算法",
-		"links": [{
-			"name": "数据结构和算法动态可视化 (Chinese)",
-			"url": "http://zh.visualgo.net/"
-		}, {
-			"name": "Codewars",
-			"url": "https://www.codewars.com/"
-		}, {
-			"name": "力扣",
-			"url": "https://leetcode.cn/"
-		}]
-	},
-    {
-		"name": "未分类",
-		"links": [{
-			"name": "数据结构和算法动态可视化 (Chinese)",
-			"url": "http://zh.visualgo.net/"
-		}, {
-			"name": "Codewars",
-			"url": "https://www.codewars.com/"
-		}, {
-			"name": "力扣",
-			"url": "https://leetcode.cn/"
-		}]
-	}]
-},
-{
-	"name": "🖥️ 编程开发",
-	"categories": [{
-		"name": "算法",
-		"links": [{
-			"name": "数据结构和算法动态可视化 (Chinese)",
-			"url": "http://zh.visualgo.net/"
-		}, {
-			"name": "Codewars",
-			"url": "https://www.codewars.com/"
-		}, {
-			"name": "力扣",
-			"url": "https://leetcode.cn/"
-		}]
-	},
-    {
-		"name": "未分类",
-		"links": [{
-			"name": "数据结构和算法动态可视化 (Chinese)",
-			"url": "http://zh.visualgo.net/"
-		}, {
-			"name": "Codewars",
-			"url": "https://www.codewars.com/"
-		}, {
-			"name": "力扣",
-			"url": "https://leetcode.cn/"
-		}]
-	}]
-},
-{
-	"name": "🖥️ 编程开发",
-	"categories": [{
-		"name": "算法",
-		"links": [{
-			"name": "数据结构和算法动态可视化 (Chinese)",
-			"url": "http://zh.visualgo.net/"
-		}, {
-			"name": "Codewars",
-			"url": "https://www.codewars.com/"
-		}, {
-			"name": "力扣",
-			"url": "https://leetcode.cn/"
-		}]
-	},
-    {
-		"name": "未分类",
-		"links": [{
-			"name": "数据结构和算法动态可视化 (Chinese)",
-			"url": "http://zh.visualgo.net/"
-		}, {
-			"name": "Codewars",
-			"url": "https://www.codewars.com/"
-		}, {
-			"name": "力扣",
-			"url": "https://leetcode.cn/"
-		}]
-	}]
-}]
+	{
+		"name": "🔧 实用工具",
+		"categories": [
+			{
+				"name": "文件处理",
+				"links": [
+					{
+						"name": "图片压缩",
+						"url": "https://docsmall.com/image-compress"
+					},
+					{
+						"name": "Convertio 格式转换",
+						"url": "https://convertio.co"
+					}
+				]
+			},
+			{
+				"name": "音视频下载器",
+				"links": [
+					{
+						"name": "Spotify Downloader",
+						"url": "https://spotifydown.com/"
+					},
+					{
+						"name": "Youtuber Downloader",
+						"url": "https://yt1s.com/en622"
+					}
+				]
+			}
+		]
+	}
+]
