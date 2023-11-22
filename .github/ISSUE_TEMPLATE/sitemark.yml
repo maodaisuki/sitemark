@@ -1,6 +1,6 @@
 name: sitemark
 description: 添加书签
-title: "[SiteMark] <title>"
+title: "[SiteMark] 添加书签"
 labels: ["未分类"]
 body:
 - type: input
