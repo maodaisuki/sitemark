@@ -1,0 +1,17 @@
+name: sitemark
+description: 添加书签
+title: "[SiteMark] <title>"
+labels: ["未分类"]
+body:
+- type: textarea
+  attributes:
+    label: 网站名称
+    description: 输入网站的名称
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: 网站 URL
+    description: 输入网站 URL
+  validations:
+    required: true
