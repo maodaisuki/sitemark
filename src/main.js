@@ -1,4 +1,5 @@
 import './assets/main.css'
+import './json/default.json'
 import '@arco-design/web-vue/dist/arco.css'
 
 import { createApp } from 'vue'
