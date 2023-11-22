@@ -37,7 +37,7 @@ import parseURL from '../utils/URLparse'
   }
 
   /* 适配小屏幕 */
-  @media (max-width: 980px){
+  @media (max-width: 700px){
     .link-info {
       float: left;
       width: 50%;
@@ -71,6 +71,7 @@ import parseURL from '../utils/URLparse'
     text-overflow: ellipsis;
     height: 20px;
     line-height: 20px;
+    color: rgb(52, 52, 52);
   }
 
   .arco-card {
