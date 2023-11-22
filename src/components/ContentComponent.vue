@@ -33,7 +33,7 @@ import parseURL from '../utils/URLparse'
     overflow: hidden;
     box-sizing: border-box;
     border: 1px dashed transparent;
-    padding: 2px;
+    padding: 2px 15px 2px 2px;
   }
 
   /* 适配小屏幕 */
@@ -46,7 +46,7 @@ import parseURL from '../utils/URLparse'
       overflow: hidden;
       box-sizing: border-box;
       border: 1px dashed transparent;
-      padding: 2px;
+      padding: 2px 15px 2px 2px;
     }
   }
 
@@ -58,6 +58,7 @@ import parseURL from '../utils/URLparse'
     height: 20px;
     line-height: 20px;
     margin-right: 10px;
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.299);
   }
 
   .link-info a {
