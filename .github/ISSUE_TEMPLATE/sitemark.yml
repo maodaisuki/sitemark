@@ -3,15 +3,17 @@ description: 添加书签
 title: "[SiteMark] <title>"
 labels: ["未分类"]
 body:
-- type: textarea
+- type: input
   attributes:
     label: 网站名称
     description: 输入网站的名称
+    placeholder: ex. Github 
   validations:
     required: true
-- type: textarea
+- type: input
   attributes:
     label: 网站 URL
     description: 输入网站 URL
+    placeholder: ex. https://github.com
   validations:
     required: true
