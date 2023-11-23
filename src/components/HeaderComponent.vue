@@ -52,14 +52,15 @@
         searchOutputItem.splice(0, searchOutputItem.length)
       },
       clickOperater(event) {
-        if (document.getElementsByClassName('search-output')[0].contains(event.target)) {
-          // console.log("点击容器内部");
-          window.removeEventListener('click', this.clickOperater)
+        if(isShowSearchOutput.value) {
+          if (document.getElementsByClassName('search-output')[0].contains(event.target)) {
+            // console.log("点击容器内部");
+          }
+          else {
+            this.isShowSearchOutput = ref(false)
+          }
         }
-        else {
-          window.removeEventListener('click', this.clickOperater)
-          this.isShowSearchOutput = ref(false)
-        }
+        window.removeEventListener('click', this.clickOperater)
       },
       goToLink(url) {
         event.preventDefault();
