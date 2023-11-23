@@ -174,10 +174,16 @@
 .output-item .search-site-info .site-name {
   margin-bottom: 5px;
   font-size: 1em;
+  word-wrap: break-word;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 
 .output-item .search-site-info .site-url {
   font-size: 0.9em;
+  word-wrap: break-word;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 
 </style>
