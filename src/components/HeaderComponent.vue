@@ -135,9 +135,10 @@
 
 .output-item {
   height: 50px;
-  padding: 5px;
+  width: 100%;
   margin-bottom: 5px;
   display: flex;
+  overflow: hidden;
   flex-direction: row;
   align-items: center;
   color: #7b7b7b;
@@ -164,26 +165,30 @@
 .output-item .search-site-info {
   display: flex;
   flex-direction: column;
-  width: 100%;
   height: 100%;
-  margin: 5px auto 5px 10px;
+  margin: 5px 10px 5px 10px;
   align-items: flex-start;
   justify-content: center;
+  overflow: hidden;
 }
 
 .output-item .search-site-info .site-name {
-  margin-bottom: 5px;
+  margin-bottom: 2px;
   font-size: 1em;
-  word-wrap: break-word;
+  line-height: 1.5em;
+  overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
+  width: 100%;
 }
 
 .output-item .search-site-info .site-url {
   font-size: 0.9em;
-  word-wrap: break-word;
+  line-height: 1.5em;
+  overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
+  width: 100%;
 }
 
 </style>
